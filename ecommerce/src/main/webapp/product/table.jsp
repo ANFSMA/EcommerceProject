@@ -1,0 +1,31 @@
+<table id="productTable" class="table table-striped table-bordered"
+	style="width: 100%">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Category_id</th>
+			<th>Name</th>
+			<th>Pricing</th>
+			<th>Icon</th>
+			<th>Rating_cache</th>
+			<th>Rating_count</th>
+			<th>Short_description</th>
+			<th>Long_description</th>
+			<th>Published</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<th>Id</th>
+			<th>Category_id</th>
+			<th>Name</th>
+			<th>Pricing</th>
+			<th>Icon</th>
+			<th>Rating_cache</th>
+			<th>Rating_count</th>
+			<th>Short_description</th>
+			<th>Long_description</th>
+			<th>Published</th>
+		</tr>
+	</tfoot>
+</table>
